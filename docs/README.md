@@ -95,11 +95,11 @@ to obtain robust features for recognition. The two streams are coupled at the fu
 ## Installation
 This project has the following dependencies:
 
-- Numpy `sudo pip install numpy`
+- Numpy `pip install numpy`
 
 - OpenCV Python `sudo apt-get install python-opencv`
 
-- TensorFlow `sudo pip install --upgrade tensorflow-gpu`
+- TensorFlow `pip install --upgrade tensorflow-gpu`
 
 ## Usage
 The only thing you have to do to get started is set up the folders in the following structure:
